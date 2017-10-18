@@ -11,4 +11,3 @@ jobs:
   - get: flight-school
   - task: tests
     file: flight-school/ci/test.yml
-    privileged: true
